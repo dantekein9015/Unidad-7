@@ -1,5 +1,5 @@
 # TP 6 - Estructuras de Datos Complejas - UTN A Distancia
-# Alumno: [Tu Nombre]
+# Alumno: Enrique Alejandro Juarez Alvarez
 
 # 1. Agregar frutas al diccionario
 precios_frutas = {'Banana': 1200, 'Ananá': 2500, 'Melón': 3000, 'Uva': 1450}
